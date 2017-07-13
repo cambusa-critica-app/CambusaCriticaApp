@@ -1,0 +1,217 @@
+Acciuga 101
+Aglio 135
+Albicocca 47
+Ananas 57
+Anatra 227
+Arachidi 571
+Aragosta 84
+Arancia 44
+Aringa 193
+Arrosto (carne di vitello) 112
+Arrosto (carne bovina) 161
+Asparagi 18
+Astice 81
+Avocado 223
+Baguette 270
+Banana 94
+Barbabietola 41
+Bel Paese 374
+Birra 47
+Braciola (carne di vitello) 112
+Braciola (carne suina) 150
+Braciola (carne ovina) 348
+Bresaola 128
+Brie 315
+Broccoli 27
+Burro 754
+Burro fuso 900
+Camembert 281
+Carciofo 22
+Carota 27
+Carpa 115
+Carpaccio 121
+Castagne 196
+Cavallo 107
+Cavolfiore 23
+Cavoli di bruxelles 38
+Ceci 275
+Cetriolo 13
+Champagne 83
+Chicchi di mais 333
+Ciliegia 59
+Cipolla 28
+Cocomero 38
+Coniglio 152
+Coscia (carne di vitello) 97
+Coscia (carne bovina) 148
+Coscia (carne ovina) 234
+Coscia (carne suina) 274
+Coscia di pollo con pelle 174
+Coscia di pollo senza pelle 114
+Cozze 51
+Crusca di grano 176
+Cuore (carne suina) 87
+Cuore (carne di vitello) 114
+Cuore (carne bovina) 124
+Cuore (carne ovina) 160
+Datteri secchi 273
+Emmental 387
+Fagioli bianchi 262
+Fagiolini verdi 35
+Farina di mais integrale 333
+Farro 320
+Fecola di mais 346
+Fecola di patate 336
+Fegato (carne bovina) 121
+Fegato (carne di vitello) 130
+Fegato (carne suina) 133
+Fegato (carne ovina) 133
+Fico 60
+Fico secco 243
+Filetti di merluzzo 73
+Filetto (carne di vitello) 95
+Filetto (carne suina) 106
+Filetto (carne ovina) 112
+Filetto (carne bovina) 121
+Finocchio 24
+Fiocchi di avena 354
+Fontina 329
+Formaggio di Capra 355
+Formaggio fresco 253
+Fragola 33
+Fruttosio 290
+Gamberetti 87
+Gamberi 65
+Gorgonzola 358
+Gruviera 410
+Involtino 116
+Kiwi 50
+Lamponi 32
+Latte intero 47
+Latte magro 35
+Latte non pastorizzato 67
+Latte scremato 47
+Lenticchie 310
+Lepre 113
+Limone 36
+Lingua (carne di vitello) 128
+Lingua (carne ovina) 195
+Lingua (carne suina) 207
+Lingua (carne bovina) 209
+Luccio 82
+Macinato (carne bovina) 216
+Macinato (carne suina) 271
+Maionese 752
+Mandarino 45
+Mandorle 576
+Mango 56
+Manzo salato 141
+Margarina vegetale 722
+Mascarpone 460
+Mela 54
+Melanzana 17
+Melone 54
+Miele 325
+Mirtilli 38
+More 44
+Mortadella 345
+Mozzarella di bufala 255
+Mozzarella di mucca 225
+Muesli 394
+Nasello 91
+Nocciole 643
+Noci 667
+Oca 342
+Olio di cocco 895
+Olio di palma 894
+Olio vegetale 900
+Olive nere in salamoia 351
+Olive verdi in salamoia 131
+Ostriche 66
+Pancetta 854
+Pancetta affumicata 621
+Pane bianco 238
+Pane integrale di grano 200
+Panna dolce 293
+Parmigiano 386
+Pasta all'uovo 139
+Pasta integrale 137
+Patata 71
+Pecorino fresco 219
+Peperone 20
+Pera 55
+Pesca 47
+Pesce spada 117
+Petto (carne di vitello) 131
+Petto (carne bovina) 244
+Pinoli 674
+Piselli 272
+Pistacchio 598
+Pollo arrosto 166
+Pollo da brodo 257
+Polpa di cocco 369
+Pomodoro 17
+Pompelmo 43
+Porcino fresco 17
+Porcino secco 124
+Porro 26
+Prosciutto cotto 193
+Prosciutto crudo 383
+Provolone 365
+Prugna 51
+Prugna secca 236
+Ravanelli 13
+Ribes 33
+Riso 116
+Roastbeef 130
+Rognone (carne suina) 96
+Rognone (carne di vitello) 128
+Salami di manzo 232
+Salmone 202
+Salmone affumicato 289
+Salsiccia di maiale 298
+Salsiccia di pollo 173
+Salsiccia di vitello 266
+Sardina 124
+Scaloppina (carne di vitello) 100
+Scaloppina (carne suina) 106
+Scaloppina (carne ovina) 131
+Sciroppo d'acero 270
+Sedano 15
+Semi di zucca 570
+Semolino di grano 324
+Sgombro 180
+Sherry secco 110
+Sogliola 83
+Soia 323
+Spaghetti 145
+Spalla (carne bovina) 153
+Spalla (carne suina) 271
+Spinaci freschi 15
+Spremuta d'arancia 47
+Spremuta di pompelmo 36
+Spumante secco 75
+Stinco (carne di vitello) 100
+Stinco (carne suina) 186
+Strutto di maiale 900
+Tacchino adulto 212
+Tartufo 56
+Tonno 226
+Trota affumicata 130
+Trota di fiume 102
+Tuorlo 68
+Uovo intero 159
+Uva 73
+Uva secca 276
+Verza 25
+Vino bianco secco 69
+Vino rosso secco 69
+Vodka 222
+Whisky 438
+Würstel 272
+Yogurt magro 34
+Yogurt naturale 46
+Zucca 25
+Zucchero bianco 410
+Zucchero grezzo 410
+Zucchine 19
